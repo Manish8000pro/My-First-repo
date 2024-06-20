@@ -1,2 +1,3 @@
 # My-First-repo
-This is my Get Repository
+This is my first Get Repository
+Author-Manish Kumawat
